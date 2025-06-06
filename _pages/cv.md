@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 ---
 
-Download my full CV here: [Download PDF](../assets/cv/Anitha_CV.pdf)
+Download my full CV here: [Download PDF](../assets/cv/test_CV.pdf)
 
 ## Education
 - **Ph.D. in MEMS**, [University Name], 2023

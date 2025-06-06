@@ -1,6 +1,7 @@
-title: "Dr. Anitha Mekala"
+title: "Dr. Sai Kishore Jujjuvarapu"
 email: "your.email@example.com"
 description: >-
   PhD in MEMS, passionate about micro-systems, vibrations, and smart sensors.
 baseurl: ""
-url: "https://yourusername.github.io"
+url: "https://github.com/saikishorej18/saikishore-portfolio.git"
+theme: minima
